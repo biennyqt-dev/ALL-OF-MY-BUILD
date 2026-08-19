@@ -14,6 +14,8 @@ https://github.com/biennyqt-dev/ritual-siggy-market-prediction
 
 - Ritual Siggy Prediction Market on Ritual Public Testnet, my first and best prediction market that ive build on Ritual chain.
 
+Siggy Prediction Market is an AI powered prediction market built on Ritual Chain, designed to let users create and participate in prediction markets while using AI to help resolve outcomes. It combines on chain market activity with automated, verifiable resolution, making predictions more transparent, trustless, and efficient.
+
 <img width="1414" height="756" alt="image" src="https://github.com/user-attachments/assets/7022f1cc-12ce-4f1d-a3da-f030380f1787" />
 
 
