@@ -36,7 +36,7 @@ https://github.com/biennyqt-dev/ritual-dash
 
 https://github.com/biennyqt-dev/Self-Resolving-Prediction-Market
 
-- My Proof of Build on Bootcamp #2 in Ritual Academic Session
+- My Proof of Build on Bootcamp #2 in Ritual Bootcamp Session #2
 
 
 <img width="1419" height="761" alt="image" src="https://github.com/user-attachments/assets/58d2903b-9a29-428e-9131-52a771d31eed" />
