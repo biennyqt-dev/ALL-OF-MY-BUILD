@@ -42,3 +42,10 @@ https://github.com/biennyqt-dev/Self-Resolving-Prediction-Market
 
 
 <img width="1419" height="761" alt="image" src="https://github.com/user-attachments/assets/58d2903b-9a29-428e-9131-52a771d31eed" />
+
+https://github.com/biennyqt-dev/PERSI-SOVE
+
+- PERSI-SOVE is a Web3 autonomous AI agent management platform built natively on the Ritual Chain ecosystem. It provides real-time telemetry, automated funding, and execution controls for persistent and sovereign AI agents operating directly on-chain via EVM precompiles.
+
+<img width="1291" height="737" alt="image" src="https://github.com/user-attachments/assets/9819f909-8e19-4587-9353-31288dfb6031" />
+
