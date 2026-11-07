@@ -1,10 +1,8 @@
-# ALL OF MY BUILD IN RITUAL
-
-ALL OF MY BUILD ON RITUAL 
+# ALL OF MY BUILD 
 
 https://github.com/biennyqt-dev/ritual-claw-carnival-final
 
-- A game where you can earn Siggy Coin or Ritual Coin | Inspired by the arcade games we play in real life.
+- A game where you can earn Coin | Inspired by the arcade games we play in real life.
 
 <img width="1403" height="763" alt="image" src="https://github.com/user-attachments/assets/88fb092a-6e71-437c-ad93-82b59ad23cc0" />
 
@@ -12,9 +10,9 @@ https://github.com/biennyqt-dev/ritual-claw-carnival-final
 
 https://github.com/biennyqt-dev/ritual-siggy-market-prediction
 
-- Ritual Siggy Prediction Market on Ritual Public Testnet, my first and best prediction market that ive build on Ritual chain.
+- Siggy Prediction Market, my first and best prediction market that ive build.
 
-Siggy Prediction Market is an AI powered prediction market built on Ritual Chain, designed to let users create and participate in prediction markets while using AI to help resolve outcomes. It combines on chain market activity with automated, verifiable resolution, making predictions more transparent, trustless, and efficient.
+Siggy Prediction Market is an AI powered prediction market built. designed to let users create and participate in prediction markets while using AI to help resolve outcomes. It combines on chain market activity with automated, verifiable resolution, making predictions more transparent, trustless, and efficient.
 
 <img width="1414" height="756" alt="image" src="https://github.com/user-attachments/assets/7022f1cc-12ce-4f1d-a3da-f030380f1787" />
 
@@ -22,7 +20,7 @@ Siggy Prediction Market is an AI powered prediction market built on Ritual Chain
 
 https://github.com/biennyqt-dev/ritual-nexus
 
-- Ritual Nexus is an interactive hub built to make exploring the Ritual ecosystem easier. The official resources are integrated directly into the Ritual logo, creating a more creative, fun, and interactive way to discover the ecosystem. Instead of searching through different websites, you can quickly access the Docs, Team, Blog, Lab, GitHub, Discord,
+- Nexus is an interactive hub built to make exploring the ecosystem easier. The official resources are integrated directly into the Ritual logo, creating a more creative, fun, and interactive way to discover the ecosystem. Instead of searching through different websites, you can quickly access the Docs, Team, Blog, Lab, GitHub, Discord,
 
 <img width="1415" height="758" alt="image" src="https://github.com/user-attachments/assets/be6be7f8-d155-485f-a247-626fbb18cf52" />
 
@@ -30,7 +28,7 @@ https://github.com/biennyqt-dev/ritual-nexus
 
 https://github.com/biennyqt-dev/ritual-dash
 
-- Ritual Dash is a fast-paced endless runner built on the Ritual Testnet. Dodge obstacles, collect shields, and chase the highest score while competing on an onchain leaderboard. Every recorded score is verifiable, showcasing how fun, interactive games can be powered by Ritual's decentralized infrastructure.
+- Dash is a fast-paced endless runner built on the Testnet. Dodge obstacles, collect shields, and chase the highest score while competing on an onchain leaderboard. Every recorded score is verifiable, showcasing how fun, interactive games can be powered by Ritual's decentralized infrastructure.
 
 <img width="1395" height="769" alt="image" src="https://github.com/user-attachments/assets/40f28fcb-b029-40c7-aa64-555fb9b57a9c" />
 
@@ -45,7 +43,7 @@ https://github.com/biennyqt-dev/Self-Resolving-Prediction-Market
 
 https://github.com/biennyqt-dev/PERSI-SOVE
 
-- PERSI-SOVE is a Web3 autonomous AI agent management platform built natively on the Ritual Chain ecosystem. It provides real-time telemetry, automated funding, and execution controls for persistent and sovereign AI agents operating directly on-chain via EVM precompiles.
+- PERSI-SOVE is a Web3 autonomous AI agent management platform built natively on ecosystem. It provides real-time telemetry, automated funding, and execution controls for persistent and sovereign AI agents operating directly on-chain via EVM precompiles.
 
 <img width="1291" height="737" alt="image" src="https://github.com/user-attachments/assets/9819f909-8e19-4587-9353-31288dfb6031" />
 
